@@ -1,9 +1,7 @@
-cmc
+## CMC - Billets et documentation
 ===
 
-## CMC - Billets et documentation
-
-Le code source du projet sur sur un dépôt BitBucket, aucun code n'est hébergé sur GitHub
+Le code source du projet sur sur un dépôt BitBucket, aucun code n'est hébergé sur GitHub.
 
 ### Les pages de documentation du wiki
 
